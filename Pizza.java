@@ -5,3 +5,5 @@
 //Step 2 I puts on the pepperoni!!!! awwww yeah!
 
 //Step 3 WE NEED PINEAPPLE. 
+
+//Step 4 WE ALSO NEED BEER.
